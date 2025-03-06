@@ -1,22 +1,24 @@
-# สวัสดีครับ 👋 ผมชื่อ [ชื่อของคุณ]
 
-## เกี่ยวกับผม
-🎓 กำลังศึกษาสาขา [สาขาวิชา] ที่ [มหาวิทยาลัย]
-💻 นักพัฒนา [ประเภทของนักพัฒนา เช่น Web, Mobile, Game]
-🌱 กำลังเรียนรู้ [เทคโนโลยีหรือภาษาที่กำลังศึกษา]
-🔭 กำลังทำงานกับ [โครงการปัจจุบัน]
-📫 ติดต่อผมได้ที่: [อีเมลหรือช่องทางการติดต่ออื่นๆ]
+# Hi 👋, I'm ItzSakkarinTH
 
-## ทักษะและเทคโนโลยี
-- **ภาษาโปรแกรม:** [เช่น JavaScript, Python, Java]
-- **เฟรมเวิร์ค:** [เช่น React, Vue, Node.js]
-- **เครื่องมือ:** [เช่น Git, Docker, AWS]
-- **อื่นๆ:** [เช่น การออกแบบ UI/UX, การทดสอบ, DevOps]
+I'm interested in Web Development 
 
-## โครงการที่น่าสนใจ
-- [ชื่อโครงการ 1](ลิงก์ไปยังโครงการ) - คำอธิบายสั้นๆ
-- [ชื่อโครงการ 2](ลิงก์ไปยังโครงการ) - คำอธิบายสั้นๆ
-- [ชื่อโครงการ 3](ลิงก์ไปยังโครงการ) - คำอธิบายสั้นๆ
+---
 
-## สถิติ GitHub ของผม
-![สถิติ GitHub ของ [ชื่อผู้ใช้]](https://github-readme-stats.vercel.app/api?username=[ชื่อผู้ใช้]&show_icons=true&theme=radical)
+## Connect with me:
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ItzHarukiXyz)  
+
+
+---
+
+## Languages and Tools:
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
