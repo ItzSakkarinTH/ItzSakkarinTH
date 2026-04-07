@@ -36,7 +36,7 @@ I'm interested in Web Development!!!!
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-----
+---------------
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ItzSakkarinTH&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
