@@ -1,5 +1,5 @@
-# Hi 👋, I'm ItzSakkarinTH!!!
-I'm interested in Web and App Development!!
+# Hi 👋, I'm ItzSakkarinTH!!
+I'm interested in Web and App Development!
 
 -------
 
