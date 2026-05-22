@@ -1,4 +1,4 @@
-# Hi 👋, I'm ItzSakkarinTH!1
+# Hi 👋, I'm ItzSakkarinTH!
 I'm interested in Web and App Development!
 
 -------
