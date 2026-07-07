@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sakkarin!!!
 I'm interested in Web and App Development!!!
 
-----------------------------
+--------
 
 
 ## 🌐 Connect with me:
@@ -9,7 +9,7 @@ I'm interested in Web and App Development!!!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/y.s2kkxrin_/)
 
 
------------------------------
+--------
 
 ## 💻 Languages and Tools:
 
@@ -50,7 +50,7 @@ I'm interested in Web and App Development!!!
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
------------------------------
+--------
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ItzSakkarinTH&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
