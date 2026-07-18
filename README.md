@@ -31,7 +31,7 @@ I'm interested in Web and App Development!!!
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![LINE API](https://img.shields.io/badge/LINE%20Messaging%20API-00C300?style=for-the-badge&logo=line&logoColor=white)
 
-### Mobile Development
+### Mobile Development:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
