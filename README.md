@@ -52,6 +52,6 @@ I'm interested in Web and App Development!!!
 
 --------------------------
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats::
 ![](https://github-readme-stats.vercel.app/api?username=ItzSakkarinTH&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ItzSakkarinTH&theme=radical&hide_border=false)
