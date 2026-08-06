@@ -1,7 +1,7 @@
-# Hi 👋, I'm Sakkarin!!!!
-I'm interested in Web and App Development!!!!
+# Hi 👋, I'm SakkarinDev!!
+I'm interested in Web and App Development!
 
-----------------------------
+--------------------
 
 
 ## 🌐 Connect with me:
@@ -9,7 +9,7 @@ I'm interested in Web and App Development!!!!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/y.s2kkxrin_/)
 
 
-----------------------------
+-------------------
 
 ## 💻 Languages and Tools:
 
@@ -35,13 +35,13 @@ I'm interested in Web and App Development!!!!
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Database::
+### Database:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Others::
+### Tools & Others:
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -52,6 +52,6 @@ I'm interested in Web and App Development!!!!
 
 ---------------------------
 
-## 📊 GitHub Stats::
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ItzSakkarinTH&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ItzSakkarinTH&theme=radical&hide_border=false)
