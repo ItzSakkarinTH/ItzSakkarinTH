@@ -1,4 +1,4 @@
-# Hi everyone👋, I'm SakkarinDev!!!
+# Hi everyone👋, I'm SakkarinDev!
 I'm interested in Web and App Development!!
 
 ----------------------
