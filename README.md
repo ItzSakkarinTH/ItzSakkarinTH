@@ -32,10 +32,12 @@
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://docs.flutter.dev/)
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/guides)
 
+
 ### 🌍 Internationalization & Localization
 
-[![i18n](https://img.shields.io/badge/i18n-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white)](https://www.w3.org/International/)
-[![l10n](https://img.shields.io/badge/l10n-34A853?style=for-the-badge&logo=googletranslate&logoColor=white)](https://www.w3.org/International/)
+[![i18n](https://skillicons.dev/icons?i=googletranslate)](https://www.i18next.com/)
+[![l10n](https://skillicons.dev/icons?i=flutter)](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization)
+
 
 ### 🗄️ Database
 
