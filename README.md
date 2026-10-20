@@ -6,8 +6,9 @@
 
 ## 🌐 Connect with me
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ItzHarukiXyz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/y.s2kkxrin_/)
+[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@ItzHarukiXyz)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/y.s2kkxrin_/)
+
 
 ---
 
