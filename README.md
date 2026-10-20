@@ -15,67 +15,39 @@
 
 ### 🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="55" alt="React" />
-  <img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="55" alt="Next.js" />
-</p>
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/docs)
 
 ### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=nestjs" width="55" alt="NestJS" />
-  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=django" width="55" alt="Django" />
-</p>
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/docs/latest/api/)
+[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://docs.nestjs.com/)
+[![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/)
+[![Django](https://skillicons.dev/icons?i=django)](https://docs.djangoproject.com/)
 
 ### 📱 Mobile Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter" width="55" alt="Flutter" />
-  <img src="https://skillicons.dev/icons?i=dart" width="55" alt="Dart" />
-</p>
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://docs.flutter.dev/)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/guides)
 
 ### 🌍 Internationalization & Localization
 
-![i18n](https://img.shields.io/badge/i18n-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white)
-![l10n](https://img.shields.io/badge/l10n-34A853?style=for-the-badge&logo=googletranslate&logoColor=white)
+[![i18n](https://img.shields.io/badge/i18n-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white)](https://www.w3.org/International/)
+[![l10n](https://img.shields.io/badge/l10n-34A853?style=for-the-badge&logo=googletranslate&logoColor=white)](https://www.w3.org/International/)
 
 ### 🗄️ Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB" />
-</p>
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/docs/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)
 
 ### 🛠️ Tools & Others
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=figma" width="55" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=npm" width="55" alt="npm" />
-  <img src="https://skillicons.dev/icons?i=postman" width="55" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=vercel" width="55" alt="Vercel" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ItzSakkarinTH&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzSakkarinTH&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <i>✨ Build • Create • Grow ✨</i>
-</p>
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/docs)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://docs.github.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://help.figma.com/)
+[![npm](https://skillicons.dev/icons?i=npm)](https://docs.npmjs.com/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/docs/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/docs)
