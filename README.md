@@ -15,21 +15,27 @@
 
 ### 🎨 Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="55" alt="React" />
+  <img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="55" alt="Next.js" />
+</p>
 
 ### ⚙️ Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nestjs" width="55" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=django" width="55" alt="Django" />
+</p>
 
 ### 📱 Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" width="55" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=dart" width="55" alt="Dart" />
+</p>
 
 ### 🌍 Internationalization & Localization
 
@@ -38,25 +44,38 @@
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB" />
+</p>
 
 ### 🛠️ Tools & Others
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=figma" width="55" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=npm" width="55" alt="npm" />
+  <img src="https://skillicons.dev/icons?i=postman" width="55" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="55" alt="Vercel" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ItzSakkarinTH&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ItzSakkarinTH&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ItzSakkarinTH&theme=radical&hide_border=false)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzSakkarinTH&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Build • Create • Grow ✨</i>
+</p>
