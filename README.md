@@ -2,15 +2,12 @@
 
 ## 💻 I'm interested in Web, Mobile, and App Development!
 
----
 
 ## 🌐 Connect with me
 
-[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@ItzHarukiXyz)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/y.s2kkxrin_/)
+<a href="https://www.youtube.com/@ItzHarukiXyz"><img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/youtube.svg" width="48" height="48" alt="YouTube" /></a>
+<a href="https://www.instagram.com/y.s2kkxrin_/"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /></a>
 
-
----
 
 ## 💻 Languages and Tools
 
@@ -32,11 +29,11 @@
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://docs.flutter.dev/)
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/guides)
 
-
 ### 🌍 Internationalization & Localization
 
-[![i18n](https://skillicons.dev/icons?i=googletranslate)](https://www.i18next.com/)
-[![l10n](https://skillicons.dev/icons?i=flutter)](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization)
+[![i18n](https://img.shields.io/badge/i18n-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white)](https://www.i18next.com/)
+[![l10n](https://img.shields.io/badge/l10n-34A853?style=for-the-badge&logo=googletranslate&logoColor=white)](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization)
+
 
 
 ### 🗄️ Database
